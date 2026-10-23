@@ -5,7 +5,7 @@
 * **Mã số sinh viên:** 24810320253
 * **Lớp học phần:** Lập trình .NET - Mã Lớp: D19QTANM1
 
-* **Link Repository:**
+* **Link Repository:** https://github.com/dinhquangnhat2000nq-png/d-LTNET-TEST02_24810320253_DinhQuangNhat/tree/main
 
 ## II. DANH SÁCH BÀI TẬP HOÀN THÀNH & TỰ ĐÁNH GIÁ
 
