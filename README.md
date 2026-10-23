@@ -51,8 +51,10 @@ CSV.*
 * **Hình ảnh minh họa Giao diện:**
 
 <img width="881" height="573" alt="bai4_async" src="https://github.com/user-attachments/assets/07b2c2c3-7edb-4c27-8a61-84bd5a8a2a09" />
+
 ### 5. BÀI 5: MÔ PHỎNG GIÁM SÁT HỆ THỐNG CẢNH BÁO IOT REAL-TIME
 * **Hình ảnh minh họa Giao diện:**
+
 <img width="1905" height="560" alt="bai5_main" src="https://github.com/user-attachments/assets/9c2304e5-d037-462e-af48-4faa16fa6e9e" />
 
 
