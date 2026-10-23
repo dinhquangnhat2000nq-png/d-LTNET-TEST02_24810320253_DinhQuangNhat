@@ -20,8 +20,6 @@
 ## III. MINH HỌA GIAO DIỆN & KỸ THUẬT NỔI BẬT
 
 ### 1. Bài 1: Quản lý Dịch vụ Phòng Gym & Hội viên
-* **Kỹ thuật áp dụng:** Cấu hình DataGridView bằng code (`AutoGenerateColumns =
-false`), Data Binding 2 chiều với `BindingSource`, Validation với `ErrorProvider`.
 * **Hình ảnh minh họa Giao diện:**
 
 <img width="1347" height="920" alt="bai1_main" src="https://github.com/user-attachments/assets/299aabd6-4e53-48dc-8eef-89396bb999ec" />
@@ -33,8 +31,7 @@ TextBox.*
 
 *Mô tả: Kiểm tra hợp lệ dữ liệu nhập vào bằng ErrorProvider khi nhấn Thêm mới.*
 ### 2. Bài 2: Quản lý & Xuất Báo cáo Nhà sách
-* **Kỹ thuật áp dụng:** `OpenFileDialog` (Tải ảnh bìa), `SaveFileDialog` /
-`OpenFileDialog` (Đọc/Ghi file CSV), Cập nhật `StatusStrip` theo thời gian thực.
+
 * **Hình ảnh minh họa Giao diện:**
 
  <img width="1170" height="792" alt="bai2_main" src="https://github.com/user-attachments/assets/39e23ed5-e11b-487b-b10f-f009944ebb20" />
@@ -45,16 +42,17 @@ CSV.*
 <img width="995" height="637" alt="bai2_csv" src="https://github.com/user-attachments/assets/f81b6c7e-602e-4ae3-97bd-7ec17810a00e" />
 
 ### 3. Bài 3: Kiến trúc MDI & Xử lý Bất đồng bộ (Async/Await)
-* **Kỹ thuật áp dụng:** MDI Container, Quản lý chống mở trùng Form con,
-`async/await` chống treo UI, Safe Cross-Thread bằng `this.Invoke()`.
 * **Hình ảnh minh họa Giao diện:**
 
 <img width="1352" height="858" alt="bai3_mdi" src="https://github.com/user-attachments/assets/68d3b69e-7620-4474-bec2-37523546f295" />
 
 ### 4. BÀI 4: BẢNG ĐIỀU KHIỂN TỔNG HỢP BÁO CÁO KHO HÀNG (ASYNC/AWAIT & KHÔNG KHÓA UI)
-* **Kỹ thuật áp dụng:** async/await xử lý tác vụ bất đồng bộ, Task.Run() xử lý dữ liệu nền, ProgressBar hiển thị tiến trình xử lý, Label cập nhật trạng thái theo thời gian thực, DataGridView hiển thị dữ liệu báo cáo tổng hợp.
 
 * **Hình ảnh minh họa Giao diện:**
 
 <img width="881" height="573" alt="bai4_async" src="https://github.com/user-attachments/assets/07b2c2c3-7edb-4c27-8a61-84bd5a8a2a09" />
+### 5. BÀI 5: MÔ PHỎNG GIÁM SÁT HỆ THỐNG CẢNH BÁO IOT REAL-TIME
+* **Hình ảnh minh họa Giao diện:**
+<img width="1905" height="560" alt="bai5_main" src="https://github.com/user-attachments/assets/9c2304e5-d037-462e-af48-4faa16fa6e9e" />
+
 
