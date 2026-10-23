@@ -16,9 +16,11 @@ TEST02_22110001_NguyenVanA](https://github.com/dinhquangnhat2000nq-png/dinhquang
 
 ├── docs/                       # Thư mục chứa hình ảnh minh họa báo cáo
 
-│   ├── bai1_main.png
+│   ├── <img width="1347" height="920" alt="bai1_main" src="https://github.com/user-attachments/assets/bd84b068-8b76-4463-9d1c-16f31f467f30" />
 
-│   ├── bai1_error.png
+
+│   ├──<img width="1346" height="921" alt="bai1_error" src="https://github.com/user-attachments/assets/7b4fe517-f1f4-4ecd-9796-9ff093829033" />
+
 
 │   ├── bai2_main.png
 
